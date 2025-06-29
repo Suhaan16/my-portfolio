@@ -1,5 +1,5 @@
 {
-  "homepage": "https://chethan30.github.io/my-portfolio",
+  "homepage": "http://localhost:3000/my-portfolio",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
